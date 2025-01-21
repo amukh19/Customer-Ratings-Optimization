@@ -30,3 +30,7 @@ Subway's CEO, John Chidsey, raised concerns about low customer ratings, particul
 - Found actionable insights to target specific areas with low ratings.
 - Developed recommendations to improve operational efficiency and customer service.
 - Provided a realistic assessment of achieving the target average rating of 4.5/5.
+
+### Github Document Reference
+- For all Python code --> "SubwayAnalysis.py"
+- For outputs and analysis --> "Summary"
