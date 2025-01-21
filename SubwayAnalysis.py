@@ -2,7 +2,7 @@ NUMBER ONE----------------------------------------------------------------------
 
 Part A
 
-# Take year from review date
+# Take year from review date 
 
 reviews_data['year'] = pd.to_datetime(reviews_data['date']).dt.year
 
