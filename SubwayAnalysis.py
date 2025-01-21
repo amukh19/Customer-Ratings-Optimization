@@ -6,7 +6,7 @@ For outputs and my analysis on them, please refer to the document 'Summary Sheet
 """
 
 ############################################################################################################################
-##Analysis 1: Identifying the Issue - Are the Subway Ratings Improving, Even Across States?
+##Analysis 1: Identifying the Issue - Are the Subway Ratings Improving?
 
 # Take year from review date
 reviews_data['year'] = pd.to_datetime(reviews_data['date']).dt.year
